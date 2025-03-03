@@ -17,6 +17,22 @@ const App = () => {
     { name: "Samuroink", health: 100, attack: 12, moves: [
       { name: "Tusk Slash", damageRange: [25, 50] },
       { name: "Oink Focus", damageRange: [30, 50] }
+    ]},
+    { name: "Porkbeard", health: 115, attack: 8, moves: [
+      { name: "Cannon Blast", damageRange: [45, 70] },
+      { name: "Anchor Hook", damageRange: [30, 50] }
+    ]},
+    { name: "Professor Oinkstein", health: 120, attack: 7, moves: [
+      { name: "Mutant Serum", damageRange: [10, 40] },
+      { name: "Shock Snout", damageRange: [30, 55] }
+    ]},
+    { name: "Sir Oinksalot", health: 110, attack: 9, moves: [
+      { name: "Snout Lunge", damageRange: [35, 55] },
+      { name: "Shield Bash", damageRange: [20, 45] }
+    ]},
+    { name: "Buckaroo Bacon", health: 100, attack: 10, moves: [
+      { name: "Six-Snout Shooter", damageRange: [30, 45] },
+      { name: "Lasso Wrangle", damageRange: [25, 40] }
     ]}
   ];
 
